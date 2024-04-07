@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization
 ## Certificate :
-[certificate] ()
+[Certificate](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Accenture_virtual%20internship%20certificate.pdf)
 
 ## Tools Used
 - Excel
