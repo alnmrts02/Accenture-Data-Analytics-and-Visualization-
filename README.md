@@ -30,6 +30,11 @@ This data analysis project involves thorough analysis of three different dataset
 >- [Content](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Content.csv)
 >- [Reaction Types](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/ReactionTypes.csv)
 >- [Reactions](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Reactions.csv)
+- The Datasets are cleaned by removing the blank rows using filter option, changing the data type to make sure it is consistent and removing columns which are not relevant to the analysis.
+- The columns are merged using VLOOKUP function.
+- The sum of different categories is derived using SUMIFS function and converted the data type to values.
+- By arranging the values in descending order we get the top 5 categories.
+- The final data set: [Clean data]().
 
 ### Data Visualization
 ### Presentation
