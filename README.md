@@ -17,7 +17,7 @@ This data analysis project involves thorough analysis of three different dataset
 - Identify the key tasks as a Data Analyst.
 
 ### Data Cleaning and Modelling
-- Identifying which datasets will be required to identify " the top 5 categories with the largest popularity " using this [Data Model]().
+- Identifying which datasets will be required to identify " the top 5 categories with the largest popularity " using this [Data Model](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Data%20model.pdf).
 - The required data sets are:
 >- Content ID
 >- Reaction Types
@@ -27,9 +27,9 @@ This data analysis project involves thorough analysis of three different dataset
 >- Score
 - Cleaning of raw data by removing the rows that have missing values, changing the data type of a column and deleting rows that are not relevant for analysis.
 - The raw data sets are:
->- [Content]()
->- [Reaction Types]()
->- [Reactions]()
+>- [Content](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Content.csv)
+>- [Reaction Types](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/ReactionTypes.csv)
+>- [Reactions](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Reactions.csv)
 
 ### Data Visualization
 ### Presentation
