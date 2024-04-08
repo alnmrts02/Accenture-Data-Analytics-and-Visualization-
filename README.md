@@ -33,7 +33,7 @@ This data analysis project involves thorough analysis of three different dataset
 - The Datasets are cleaned by removing the blank rows using filter option, changing the data type to make sure it is consistent and removing columns which are not relevant to the analysis.
 - The columns are merged using VLOOKUP function.
 - The sum of different categories is derived using SUMIFS function and converted the data type to values.
-- By arranging the values in descending order we get the top 5 categories.
+- By arranging the values in descending order, we get the top 5 categories.
 - The final data set: [Clean data](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/clean%20data.xlsx).
 
 ### Data Visualization
@@ -41,8 +41,18 @@ This data analysis project involves thorough analysis of three different dataset
 - Visualization is done using Tableau.
 - Top 5 categories by aggregate popularity score [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Top%205%20Categories.png).
 - Popularity score in percentage of top 5 categories [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Popularity%20percentage.png).
-- Monthly usage [Here]().
+- Monthly usage [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Monthly%20posts.png).
 
 ### Presentation
+- The presentation was prepared on PowerPoint and was presented to the client [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Social%20Buzz%20Presentation.pptx).
 
 ## Insights
+- The Top 5 categories are:
+>- Animals
+>- Science
+>- Healthy eating
+>- Technology
+>- Food
+- The category "Animals" had the highest score (75K).
+- The month of May had the highest usage.
+- It was found that there were 16 unique categories.
