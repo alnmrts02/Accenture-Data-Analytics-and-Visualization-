@@ -34,9 +34,12 @@ This data analysis project involves thorough analysis of three different dataset
 - The columns are merged using VLOOKUP function.
 - The sum of different categories is derived using SUMIFS function and converted the data type to values.
 - By arranging the values in descending order we get the top 5 categories.
-- The final data set: [Clean data]().
+- The final data set: [Clean data](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/clean%20data.csv).
 
 ### Data Visualization
+- The cleaned data is converted into meaning full insights by graphically representing it.
+- Visualization is done using Tableau.
+- 
 ### Presentation
 
 ## Insights
