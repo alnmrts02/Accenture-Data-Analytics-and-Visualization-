@@ -39,7 +39,10 @@ This data analysis project involves thorough analysis of three different dataset
 ### Data Visualization
 - The cleaned data is converted into meaning full insights by graphically representing it.
 - Visualization is done using Tableau.
-- 
+- Top 5 categories by aggregate popularity score [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Top%205%20Categories.png).
+- Popularity score in percentage of top 5 categories [Here](https://github.com/alnmrts02/Accenture-Data-Analytics-and-Visualization-/blob/main/Popularity%20percentage.png).
+- Monthly usage [Here]().
+
 ### Presentation
 
 ## Insights
