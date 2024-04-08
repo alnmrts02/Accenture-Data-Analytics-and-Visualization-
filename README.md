@@ -17,6 +17,20 @@ This data analysis project involves thorough analysis of three different dataset
 - Identify the key tasks as a Data Analyst.
 
 ### Data Cleaning and Modelling
+- Identifying which datasets will be required to identify " the top 5 categories with the largest popularity " using this [Data Model]().
+- The required data sets are:
+>- Content ID
+>- Reaction Types
+>- Content Type
+>- Category
+>- Sentiment
+>- Score
+- Cleaning of raw data by removing the rows that have missing values, changing the data type of a column and deleting rows that are not relevant for analysis.
+- The raw data sets are:
+>- [Content]()
+>- [Reaction Types]()
+>- [Reactions]()
+
 ### Data Visualization
 ### Presentation
 
